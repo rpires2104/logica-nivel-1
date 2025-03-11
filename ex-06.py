@@ -1,0 +1,7 @@
+print("0-FIM")
+print("1-INCLUI")
+print("2-ALTERA")
+print("3-EXCLUI")
+print("4-CONSULTA")
+print("  ")
+print("OPÇÃO")
