@@ -1,3 +1,2 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
+# 1. Frase na tela - Implemente um programa que imprima na tela a frase "O primeiro programa a gente nunca esquece!".
 print("O primeiro programa a gente nunca esquece!")
